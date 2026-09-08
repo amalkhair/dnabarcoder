@@ -1,0 +1,2 @@
+biomarker,n_sequences,mean_length_bp,median_length_bp,min_length_bp,max_length_bp,range_bp,std_length_bp
+CAL,23257,578.08,554.0,250,1495,250–1495,137.09

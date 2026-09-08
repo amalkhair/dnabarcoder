@@ -1,0 +1,2 @@
+biomarker,n_sequences,mean_length_bp,median_length_bp,min_length_bp,max_length_bp,range_bp,std_length_bp
+TEF1,51937,693.25,645.0,300,1797,300–1797,254.31

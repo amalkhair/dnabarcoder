@@ -1,0 +1,2 @@
+biomarker,n_sequences,mean_length_bp,median_length_bp,min_length_bp,max_length_bp,range_bp,std_length_bp
+PGK,887,1136.14,1254.0,324,1979,324–1979,338.3

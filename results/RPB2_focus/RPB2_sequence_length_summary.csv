@@ -1,0 +1,2 @@
+biomarker,n_sequences,mean_length_bp,median_length_bp,min_length_bp,max_length_bp,range_bp,std_length_bp
+RPB2,50254,872.68,849.0,300,2470,300–2470,264.94

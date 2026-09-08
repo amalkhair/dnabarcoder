@@ -1,0 +1,92 @@
+representative_genus,n_species_in_group,species_group
+Fusarium,9,Fusarium contaminatum; Fusarium cugenangense; Fusarium grosmichelii; Fusarium nirenbergiae; Fusarium odoratissimum; Fusarium oxysporum; Fusarium redolens; Fusarium vaughaniae; Fusarium veterinarium
+Aspergillus,6,Aspergillus awamori; Aspergillus neoniger; Aspergillus niger; Aspergillus phoenicis; Aspergillus tubingensis; Aspergillus welwitschiae
+Colletotrichum,6,Colletotrichum chrysophilum; Colletotrichum fructicola; Colletotrichum hebeiense; Colletotrichum salsolae; Colletotrichum siamense; Colletotrichum tropicale
+Colletotrichum,6,Colletotrichum cangyuanense; Colletotrichum cigarro; Colletotrichum crassipes; Colletotrichum jiangxiense; Colletotrichum kahawae; Colletotrichum tengchongense
+Aspergillus,6,Aspergillus fischeri; Aspergillus fumigatus; Aspergillus lentulus; Aspergillus udagawae; Neosartorya fischeri; Neosartorya udagawae
+Aspergillus,5,Aspergillus alabamensis; Aspergillus citrinoterreus; Aspergillus hortai; Aspergillus neoterreus; Aspergillus terreus
+Colletotrichum,4,Colletotrichum costaricense; Colletotrichum lupini; Colletotrichum paranaense; Colletotrichum tamarilloi
+Aspergillus,4,Aspergillus aflatoxiformans; Aspergillus flavus; Aspergillus oryzae; Aspergillus subolivaceus
+Penicillium,4,Penicillium antarcticum; Penicillium crustosum; Penicillium mononematosum; Penicillium polonicum
+Diaporthe,4,Diaporthe celeris; Diaporthe eres; Diaporthe momicola; Diaporthe unshiuensis
+Aspergillus,3,Aspergillus amoenus; Aspergillus tabacinus; Aspergillus versicolor
+Pseudallescheria,3,Pseudallescheria boydii; Pseudallescheria minutispora; Scedosporium boydii
+Colletotrichum,3,Colletotrichum cliviae; Colletotrichum cliviicola; Colletotrichum plurivorum
+Fusarium,3,Fusarium annulatum; Fusarium fujikuroi; Fusarium proliferatum
+Calonectria,3,Calonectria ilicicola; Calonectria lantauensis; Calonectria pacifica
+Aspergillus,3,Aspergillus creber; Aspergillus cvjetkovicii; Aspergillus jensenii
+Colletotrichum,3,Colletotrichum aenigma; Colletotrichum gloeosporioides; Colletotrichum viniferum
+Aspergillus,3,Aspergillus aculeatus; Aspergillus brunneoviolaceus; Aspergillus fijiensis
+Fusarium,3,Fusarium compactum; Fusarium equiseti; Fusarium ipomoeae
+Diaporthe,3,Diaporthe ellipsoidea; Diaporthe jishouensis; Diaporthe nanjingensis
+Aspergillus,3,Aspergillus amstelodami; Aspergillus montevidensis; Eurotium heterocaryoticum
+Fusarium,3,Fusarium falciforme; Fusarium suttonianum; [Neocosmospora] rubicola
+Sporothrix,3,Sporothrix brasiliensis; Sporothrix globosa; Sporothrix schenckii
+Aspergillus,3,Aspergillus aurantiacoflavus; Aspergillus glaucus; Aspergillus proliferans
+Harknessia,2,Harknessia kleinzeeina; Harknessia uromycoides
+Trichoderma,2,Trichoderma afroharzianum; Trichoderma harzianum
+Trichoderma,2,Trichoderma endophyticum; Trichoderma lentiforme
+Fusarium,2,Fusarium incarnatum; Fusarium tanahbumbuense
+Penicillium,2,Penicillium oblatum; Rasamsonia oblata
+Fusarium,2,Fusarium anthophilum; Fusarium succisae
+Fusarium,2,Fusarium awaxy; Fusarium subglutinans
+Penicillium,2,Penicillium chrysogenum; Penicillium rubens
+Diaporthe,2,Diaporthe anacardii; Diaporthe pseudoanacardii
+Diaporthe,2,Diaporthe cercidis; Diaporthe tectonigena
+Alternaria,2,Alternaria argyroxiphii; Alternaria tropica
+Diaporthe,2,Diaporthe hubeiensis; Diaporthe shennongjiaensis
+Colletotrichum,2,Colletotrichum cordylinicola; Colletotrichum syzygiicola
+Trichoderma,2,Trichoderma bissettii; Trichoderma longibrachiatum
+Calonectria,2,Calonectria amazoniensis; Calonectria pteridis
+Trichoderma,2,Trichoderma dingleyae; Trichoderma dingleyeae
+Talaromyces,2,Talaromyces neorugulosus; Talaromyces rugulosus
+Aspergillus,2,Aspergillus rugulosus; Emericella rugulosa
+Aspergillus,2,Aspergillus pluriseminatus; Emericella pluriseminata
+Marasmius,2,Marasmius cystidiatus; Marasmius indojasminodorus
+Hypocrea,2,Hypocrea rufa; Trichoderma rogersonii
+Calonectria,2,Calonectria densa; Calonectria humicola
+Aspergillus,2,Aspergillus insuetus; Aspergillus minutus
+Diaporthe,2,Diaporthe amygdali; Diaporthe sterilis
+Aspergillus,2,Aspergillus chaetosartoryae; Aspergillus stromatoides
+Aspergillus,2,Aspergillus nidulans; Emericella nidulans
+Magnaporthe,2,Magnaporthe grisea; Pyricularia grisea
+Aspergillus,2,Aspergillus minisclerotigenes; Aspergillus texensis
+Calonectria,2,Calonectria asiatica; Calonectria tanah
+Alternaria,2,Alternaria jacinthicola; Alternaria longipes
+Sporothrix,2,Sporothrix albicans; Sporothrix pallida
+Aspergillus,2,Aspergillus nomiae; Aspergillus nomius
+Diaporthe,2,Diaporthe phaseolorum; Diaporthe sojae
+Penicillium,2,Penicillium cushmaniae; Penicillium glabrum
+Fusarium,2,Fusarium verticillioides; Gibberella moniliformis
+Fusarium,2,Fusarium clavum; Fusarium paraclavum
+Penicillium,2,Penicillium commune; Penicillium palitans
+Colletotrichum,2,Colletotrichum truncatum; Glomerella truncata
+Aspergillus,2,Aspergillus hiratsukae; Neosartorya hiratsukae
+Penicillium,2,Penicillium contaminatum; Penicillium yezoense
+Penicillium,2,Penicillium aurantiogriseum; Penicillium cellarum
+Aspergillus,2,Aspergillus domesticus; Aspergillus pseudogracilis
+Aspergillus,2,Aspergillus flavofurcatus; Aspergillus tamarii
+Penicillium,2,Penicillium paneum; Penicillium viridicatum
+Penicillium,2,Penicillium nordicum; Penicillium verrucosum
+Penicillium,2,Penicillium citrinum; Penicillium steckii
+Aspergillus,2,Aspergillus spinulosporus; Emericella echinulata
+Penicillium,2,Penicillium cornforthiae; Penicillium jejuense
+Aspergillus,2,Aspergillus pseudoglaucus; Eurotium repens
+Aspergillus,2,Aspergillus quadrilineatus; Aspergillus sublatus
+Diaporthe,2,Diaporthe passiflorae; Diaporthe passifloricola
+Alternaria,2,Alternaria alternata; Alternaria tenuissima
+Fusarium,2,Fusarium andiyazi; Fusarium mirum
+Talaromyces,2,Talaromyces funiculosus; Talaromyces pseudofuniculosus
+Talaromyces,2,Talaromyces albobiverticillius; Talaromyces rubrifaciens
+Aspergillus,2,Aspergillus candidus; Aspergillus subalbidus
+Penicillium,2,Penicillium phoeniceum; Penicillium pusillum
+Stachybotrys,2,Stachybotrys chartarum; Striatibotrys rhabdosporus
+Magnaporthe,2,Magnaporthe oryzae; Pyricularia oryzae
+Fusarium,2,Fusarium pernambucanum; Fusarium sulawesiense
+Diaporthe,2,Diaporthe caulivora; Diaporthe hyperici
+Colletotrichum,2,Colletotrichum falcatum; Glomerella tucumanensis
+Calonectria,2,Calonectria kyotensis; Calonectria turangicola
+Aspergillus,2,Aspergillus aureoterreus; Aspergillus stefaniae
+Colletotrichum,2,Colletotrichum karsti; Colletotrichum karstii
+Aspergillus,2,Aspergillus japonicus; Aspergillus violaceofuscus
+Calonectria,2,Calonectria multinaviculata; Calonectria naviculata

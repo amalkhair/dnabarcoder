@@ -1,0 +1,358 @@
+representative_genus,n_species_in_group,species_group
+Fusarium,60,Beauveria brongniartii; Beauveria pseudobassiana; Beauveria tenella; Colletotrichum sublineola; Earliella scabrosa; Fusarium acutatum; Fusarium ambrosium; Fusarium asiaticum; Fusarium babinda; Fusarium brachygibbosum; Fusarium breve; Fusarium caucasicum; Fusarium circinatum; Fusarium commune; Fusarium curvatum; Fusarium duoseptatum; Fusarium fabacearum; Fusarium falciforme; Fusarium foetens; Fusarium fujikuroi; Fusarium grosmichelii; Fusarium haematococcum; Fusarium hipposidericola; Fusarium inflexum; Fusarium keratoplasticum; Fusarium luffae; Fusarium menglaense; Fusarium napiforme; Fusarium neerlandicum; Fusarium nirenbergiae; Fusarium nygamai; Fusarium oxysporum; Fusarium phaseoli; Fusarium poae; Fusarium pseudensiforme; Fusarium pseudoanthophilum; Fusarium pseudocircinatum; Fusarium sacchari; Fusarium solani; Fusarium sporotrichioides; Fusarium stercicola; Fusarium subglutinans; Fusarium temperatum; Fusarium thapsinum; Fusarium vanettenii; Fusarium vaughaniae; Fusarium verticillioides; Fusarium veterinarium; Fusarium waltergamsii; Penicillium raperi; Penicillium soli; Pleurodesmospora sanduensis; Pochonia chlamydosporia; Talaromyces aculeatus; Talaromyces atroroseus; Talaromyces domesticus; Talaromyces pinophilus; Talaromyces purpureogenus; Trichoderma afroharzianum; [Neocosmospora] rubicola
+Alternaria,50,Alternaria alstroemeriae; Alternaria alternariae; Alternaria alternata; Alternaria angustiovoidea; Alternaria arborescens; Alternaria brassicae; Alternaria brassicicola; Alternaria burnsii; Alternaria citri; Alternaria compacta; Alternaria conjuncta; Alternaria destruens; Alternaria doliconidium; Alternaria gaisen; Alternaria gossypina; Alternaria humicola; Alternaria infectoria; Alternaria iridiaustralis; Alternaria jacinthicola; Alternaria longipes; Alternaria lycopersicifolia; Alternaria mali; Alternaria pogostemonis; Alternaria porri; Alternaria septorioides; Alternaria sesami; Alternaria solani; Alternaria tamaricis; Alternaria tenuissima; Alternaria tomato; Alternaria undulata; Cladosporium oxysporum; Coniothyrium ferrarisianum; Didymella keratinophila; Epicoccum dendrobii; Epicoccum endophyticum; Epicoccum italicum; Epicoccum layuense; Epicoccum mackenziei; Epicoccum nigrum; Epicoccum tobaicum; Epicoccum viciae-villosae; Neocamarosporium betae; Nigrospora hainanensis; Parastagonospora nodorum; Phaeosphaeria septata; Trichoderma atroviride; Trichoderma nordicum; Trichoderma paratroviride; Trichoderma viridescens
+Aspergillus,37,Aspergillus aflatoxiformans; Aspergillus alabamensis; Aspergillus austwickii; Aspergillus awamori; Aspergillus costaricensis; Aspergillus fasciculatus; Aspergillus ficuum; Aspergillus flavus; Aspergillus foetidus; Aspergillus minisclerotigenes; Aspergillus niger; Aspergillus oryzae; Aspergillus phoenicis; Aspergillus piperis; Aspergillus sergii; Aspergillus tamarii; Aspergillus terreus; Aspergillus tubingensis; Aspergillus welwitschiae; Metarhizium anisopliae; Metarhizium baoshanense; Metarhizium brunneum; Metarhizium robertsii; Microsphaeropsis arundinis; Penicillifer diparietisporus; Penicillium aethiopicum; Penicillium allii-sativi; Penicillium chrysogenum; Penicillium citrinum; Penicillium concentricum; Penicillium dipodomyicola; Penicillium gladioli; Penicillium griseofulvum; Penicillium hetheringtonii; Penicillium rubens; Penicillium samsonianum; Talaromyces neofusisporus
+Cladosporium,35,Actinomucor elegans; Cladosporium aggregatocicatricatum; Cladosporium allicinum; Cladosporium anthropophilum; Cladosporium armandiae; Cladosporium asperulatum; Cladosporium caricinum; Cladosporium cladosporioides; Cladosporium colombiae; Cladosporium crousii; Cladosporium delicatulum; Cladosporium floccosum; Cladosporium herbarum; Cladosporium iridis; Cladosporium limoniforme; Cladosporium macrocarpum; Cladosporium oryzae; Cladosporium phlei; Cladosporium phyllophilum; Cladosporium pini-ponderosae; Cladosporium pseudochalastosporoides; Cladosporium pseudocladosporioides; Cladosporium pseudotenuissimum; Cladosporium puyae; Cladosporium ramotenellum; Cladosporium subtilissimum; Cladosporium subuliforme; Cladosporium tenellum; Cladosporium tenuissimum; Cladosporium uredinicola; Cladosporium varians; Cladosporium westerdijkiae; Cladosporium xanthochromaticum; Cladosporium xylophilum; Mucor endophyticus
+Colletotrichum,32,Colletotrichum aciculare; Colletotrichum acutatum; Colletotrichum aenigma; Colletotrichum aeschynomenes; Colletotrichum aotearoa; Colletotrichum asianum; Colletotrichum boninense; Colletotrichum camelliae; Colletotrichum chrysophilum; Colletotrichum cigarro; Colletotrichum endophyticum; Colletotrichum fioriniae; Colletotrichum fructicola; Colletotrichum gloeosporioides; Colletotrichum horii; Colletotrichum jasminigenum; Colletotrichum jiangxiense; Colletotrichum juglandicola; Colletotrichum karsti; Colletotrichum lentis; Colletotrichum lineola; Colletotrichum nullisetosum; Colletotrichum pandanicola; Colletotrichum plurivorum; Colletotrichum scovillei; Colletotrichum siamense; Colletotrichum tainanense; Colletotrichum theobromicola; Colletotrichum ti; Colletotrichum tropicale; Colletotrichum truncatum; Diaporthe nobilis
+Fusarium,27,Cytosporina ludibunda; Diaporthe celeris; Diaporthe eres; Fusarium aethiopicum; Fusarium arcuatisporum; Fusarium chlamydosporum; Fusarium citri; Fusarium clavum; Fusarium coffeatum; Fusarium compactum; Fusarium croceum; Fusarium equiseti; Fusarium gibbosum; Fusarium guilinense; Fusarium hainanense; Fusarium humuli; Fusarium incarnatum; Fusarium ipomoeae; Fusarium lacertarum; Fusarium longifundum; Fusarium longipes; Fusarium pernambucanum; Fusarium sulawesiense; Fusarium tanahbumbuense; Fusarium weifangense; Trichoderma reesei; Xylodon subflaviporus
+Trichoderma,21,Trichoderma afarasin; Trichoderma anisohamatum; Trichoderma arundinaceum; Trichoderma atrobrunneum; Trichoderma azevedoi; Trichoderma breve; Trichoderma brevicompactum; Trichoderma gamsii; Trichoderma gerdae; Trichoderma guizhouense; Trichoderma hamatum; Trichoderma harzianum; Trichoderma inhamatum; Trichoderma lentiforme; Trichoderma lixii; Trichoderma longicollum; Trichoderma neotropicale; Trichoderma rifaii; Trichoderma simile; Trichoderma simmonsii; Trichoderma spirale
+Curvularia,20,Curvularia australiensis; Curvularia crepinii; Curvularia dactylocteniicola; Curvularia eragrostidis; Curvularia fallax; Curvularia geniculata; Curvularia intermedia; Curvularia kusanoi; Curvularia lunata; Curvularia muehlenbeckiae; Curvularia oryzae; Curvularia radicicola; Curvularia senegalensis; Curvularia spicifera; Curvularia tsudae; Exserohilum holmii; Exserohilum mcginnisii; Exserohilum rostratum; Fulvia fulva; Pyrenophora sieglingiae
+Neopestalotiopsis,18,Neopestalotiopsis chiangmaiensis; Neopestalotiopsis chrysea; Neopestalotiopsis clavispora; Neopestalotiopsis concentrica; Neopestalotiopsis cubana; Neopestalotiopsis ellipsospora; Neopestalotiopsis formicidarum; Neopestalotiopsis haikouensis; Neopestalotiopsis hispanica; Neopestalotiopsis keteleeriae; Neopestalotiopsis rhododendri; Neopestalotiopsis rosae; Neopestalotiopsis saprophytica; Neopestalotiopsis umbrinospora; Neopestalotiopsis zakeelii; Pestalotiopsis arceuthobii; Pestalotiopsis linearis; Pestalotiopsis maculans
+Lasiodiplodia,15,Lasiodiplodia brasiliensis; Lasiodiplodia gilanensis; Lasiodiplodia hormozganensis; Lasiodiplodia iranensis; Lasiodiplodia irregularis; Lasiodiplodia lignicola; Lasiodiplodia mahajangana; Lasiodiplodia parva; Lasiodiplodia pseudotheobromae; Lasiodiplodia thailandica; Lasiodiplodia theobromae; Lecanicillium aphanocladii; Pyricularia grisea; Pyricularia oryzae; Pyricularia penniseticola
+Aspergillus,15,Aspergillus amoenus; Aspergillus corrugatus; Aspergillus creber; Aspergillus jensenii; Aspergillus lentulus; Aspergillus nidulans; Aspergillus pepii; Aspergillus protuberus; Aspergillus sydowii; Aspergillus tabacinus; Aspergillus tennesseensis; Aspergillus venenatus; Aspergillus versicolor; Aspergillus violaceus; Westerdykella angulata
+Purpureocillium,13,Beauveria bassiana; Beauveria rudraprayagi; Beauveria sulfurescens; Cordyceps cateniannulata; Cordyceps farinosa; Purpureocillium aranea; Purpureocillium lavendulum; Purpureocillium lilacinum; Purpureocillium sinense; Purpureocillium tiankengense; Purpureocillium zongqii; Talaromyces pseudofuniculosus; Talaromyces trachyspermus
+Meyerozyma,11,Diutina catenulata; Hanseniaspora opuntiae; Kluyveromyces marxianus; Kurtzmaniella quercitrusa; Meyerozyma caribbica; Meyerozyma carpophila; Meyerozyma guilliermondii; Meyerozyma smithsonii; Saccharomyces cerevisiae; Starmerella apicola; Wickerhamomyces anomalus
+Chaetomium,11,Chaetomium cochliodes; Chaetomium cucumericola; Chaetomium globosum; Chaetomium grande; Chaetomium meridionalense; Chaetomium rectangulare; Chaetomium spirochaete; Chaetomium subglobosum; Chaetomium tenue; Collariella robusta; Fusarium andiyazi
+Botrytis,11,Botryotinia ranunculi; Botrytis californica; Botrytis cinerea; Botrytis elliptica; Botrytis fabae; Botrytis fuckeliana; Botrytis porri; Botrytis pseudocinerea; Botrytis tulipae; Sclerotinia sclerotiorum; Sclerotinia veratri
+Fusarium,10,Cadophora obovata; Fusarium anguioides; Fusarium avenaceum; Fusarium californicum; Fusarium flavoides; Fusarium flocciferum; Fusarium iranicum; Fusarium paeoniae; Fusarium reticulatum; Fusarium tricinctum
+Fusarium,10,Dactylonectria torresensis; Fusarium acuminatum; Fusarium annulatum; Fusarium concentricum; Fusarium globosum; Fusarium proliferatum; Fusarium redolens; Irpex alboflavescens; Irpex lacteus; Paraconiothyrium brasiliense
+Samsoniella,9,Samsoniella araneicola; Samsoniella hepiali; Samsoniella lurida; Samsoniella miaolingensis; Samsoniella neopupicola; Samsoniella sinensis; Samsoniella tongrenensis; Samsoniella yunnanensis; Samsoniella zongqii
+Clonostachys,9,Clonostachys apocyni; Clonostachys aranearum; Clonostachys chloroleuca; Clonostachys pseudochroleuca; Clonostachys rhizophaga; Clonostachys rosea; Clonostachys solani; Fusarium radicigenum; [Neocosmospora] australiana
+Nigrospora,8,Nigrospora aurantiaca; Nigrospora gorlenkoana; Nigrospora guilinensis; Nigrospora macarangae; Nigrospora oryzae; Nigrospora philosophiae-doctoris; Nigrospora pyriformis; Nigrospora sphaerica
+Epicoccum,8,Allophoma labilis; Epicoccum camelliae; Epicoccum catenisporum; Epicoccum latusicollum; Epicoccum sorghinum; Epicoccum thailandicum; Epicoccum variabile; Epicoccum viticis
+Pestalotiopsis,7,Pestalotiopsis adusta; Pestalotiopsis diploclisiae; Pestalotiopsis kenyana; Pestalotiopsis microspora; Pestalotiopsis photiniicola; Pestalotiopsis sichuanensis; Pestalotiopsis trachycarpicola
+Apiospora,7,Apiospora aquatica; Apiospora arundinis; Apiospora chromolaenae; Apiospora guangdongensis; Apiospora hongheensis; Apiospora malaysiana; Westerdykella dispersa
+Aspergillus,7,Aspergillus aculeatinus; Aspergillus aculeatus; Aspergillus assiutensis; Aspergillus brunneoviolaceus; Aspergillus japonicus; Aspergillus trinidadensis; Aspergillus uvarum
+Morchella,6,Morchella esculenta; Morchella eximia; Morchella hispaniolensis; Morchella septimelata; Morchella sextelata; Morchella tridentina
+Candida,6,Candida albicans; Candida orthopsilosis; Candida parapsilosis; Candida tropicalis; Scopulariopsis brevicaulis; Yamadazyma mexicana
+Trichoderma,6,Moniliophthora roreri; Striaticonidium cinctum; Trichoderma asperelloides; Trichoderma asperellum; Trichoderma viride; Trichoderma yunnanense
+Ganoderma,6,Ganoderma applanatum; Ganoderma gibbosum; Ganoderma lingzhi; Ganoderma mbrekobenum; Ganoderma orbiforme; Ganoderma resinaceum
+Ascochyta,6,Ascochyta nigripycnidia; Ascochyta phacae; Juxtiphoma kolkmaniorum; Macroventuria terrestris; Microsphaeropsis proteae; Paraboeremia litseae
+Diaporthe,6,Diaporthe guangdongensis; Diaporthe hubeiensis; Diaporthe phoenicicola; Diaporthe tectonae; Diaporthe tulliensis; Diaporthe vexans
+Aspergillus,5,Aspergillus fumigatiaffinis; Aspergillus fumigatus; Aspergillus oerlinghausenensis; Aspergillus spinosus; Penicillium roqueforti
+Pseudogymnoascus,5,Aspergillus insuetus; Pseudogymnoascus appendiculatus; Pseudogymnoascus hyalinus; Pseudogymnoascus irelandiae; Pseudogymnoascus pannorum
+Stagonosporopsis,5,Penicillium griseopurpureum; Stagonosporopsis caricae; Stagonosporopsis citrulli; Stagonosporopsis cucumeris; Stagonosporopsis cucurbitacearum
+Tilletia,5,Tilletia bromi; Tilletia controversa; Tilletia laevis; Urocystis bromi; Urocystis hierochloae
+Didymella,5,Didymella exigua; Didymella pomorum; Didymella prosopidis; Didymella sinensis; Didymella subherbarum
+Plectosphaerella,5,Plectosphaerella cucumerina; Plectosphaerella niemeijerarum; Plectosphaerella plurivora; Plectosphaerella slobbergiarum; Trichurus spiralis
+Didymella,5,Didymella americana; Didymella macrostoma; Didymella pinodella; Didymella pinodes; Epicoccum draconis
+Fusarium,5,Fusarium boothii; Fusarium culmorum; Fusarium graminearum; Fusarium nepalense; Fusarium ussurianum
+Calonectria,5,Calonectria multilateralis; Calonectria pauciramosa; Calonectria seminaria; Calonectria tetraramosa; Calonectria tropicalis
+Metarhizium,5,Metarhizium flavoviride; Metarhizium formicae; Metarhizium gaoligongense; Metarhizium pemphigi; Metarhizium pupicola
+Didymella,5,Didymella bellidis; Didymella glomerata; Didymella pittospori; Didymella segeticola; Nothophoma quercina
+Talaromyces,5,Talaromyces annesophieae; Talaromyces apiculatus; Talaromyces funiculosus; Talaromyces muroii; Talaromyces verruculosus
+Mortierella,5,Mortierella acuminata; Mortierella alpina; Mortierella lapis; Mortierella rostafinskii; Mortierella yunnanensis
+Phanerochaete,4,Phanerochaete australis; Phanerochaete concrescens; Phanerochaete livescens; Phanerochaete sordida
+Xylodon,4,Flaviporus minutus; Hyphodontia tropica; Xylodon flaviporus; Xylodon ovisporus
+Rhizopus,4,Agrocybe eduardii; Rhizopus arrhizus; Rhizopus sexualis; Rhizopus stolonifer
+Diaporthe,4,Diaporthe arecae; Diaporthe caulivora; Diaporthe hyperici; Diaporthe phaseolorum
+Trichoderma,4,Trichoderma erinaceum; Trichoderma koningiopsis; Trichoderma trixiae; Trichoderma vinosum
+Neopestalotiopsis,4,Neopestalotiopsis camelliae-oleiferae; Neopestalotiopsis iberica; Neopestalotiopsis nebuloides; Neopestalotiopsis vacciniicola
+Rhodotorula,4,Rhodotorula babjevae; Rhodotorula glutinis; Rhodotorula graminis; Rhodotorula paludigena
+Mucor,4,Mucor fragilis; Mucor phayaoensis; Mucor pseudocircinelloides; Mucor pseudolusitanicus
+Pleurotus,4,Pleurotus eryngii; Pleurotus ostreatus; Pleurotus placentodes; Pleurotus pulmonarius
+Bipolaris,4,Bipolaris setariae; Bipolaris yamadae; Drechslera euphorbiae; Drechslera ocella
+Austropleospora,4,Austropleospora keteleeriae; Austropleospora ochracea; Paracamarosporium hawaiiense; Paraconiothyrium archidendri
+Galerina,4,Galerina jaapii; Galerina nana; Galerina triscopa; Tubaria furfuracea
+Pseudopithomyces,4,Pseudopestalotiopsis theae; Pseudopithomyces chartarum; Pseudopithomyces palmicola; Pseudopithomyces pandanicola
+Penicillium,4,Penicillium corylophilum; Penicillium fagi; Penicillium mckenzieae; Penicillium sparrowiae
+Penicillium,4,Penicillium commune; Penicillium crustosum; Penicillium dabashanicum; Penicillium griseoroseum
+Armillaria,4,Armillaria ostoyae; Armillaria sinapina; Armillaria sinensis; Armillaria violacea
+Penicillium,4,Penicillium canescens; Penicillium glabrum; Penicillium janczewskii; Penicillium jensenii
+Penicillium,3,Penicillium aurantiogriseum; Penicillium cyclopium; Penicillium viridicatum
+Acremonium,3,Acremonium alternatum; Acremonium egyptiacum; Acremonium sclerotigenum
+Gerronema,3,Gerronema nemorale; Gerronema subclavatum; Pluteus variabilicolor
+Erysiphe,3,Erysiphe aquilegiae; Erysiphe coriariigena; Erysiphe macleayae
+Stephanonectria,3,Stephanonectria arenicola; Stephanonectria chromolaenae; Stephanonectria keithii
+Fomitopsis,3,Antrodia tanakae; Fomitopsis hengduanensis; Fomitopsis pinicola
+Trichoderma,3,Trichoderma crassum; Trichoderma deliquescens; Trichoderma virens
+Cytospora,3,Cytospora albodisca; Cytospora leucostoma; Cytospora xinglongensis
+Fusarium,3,Fusarium coffeibaccae; Fusarium lateritium; Fusarium stilboides
+Morchella,3,Morchella costata; Morchella eohespera; Morchella norvegiensis
+Microporus,3,Microporus affinis; Microporus xanthopus; Trametes vernicipes
+Apiospora,3,Apiospora locuta-pollinis; Apiospora marii; Apiospora sphaerosperma
+Stemphylium,3,Stemphylium eturmiunum; Stemphylium vesicarium; Sydowia polyspora
+Helicoma,3,Helicoma linderi; Helicoma rubriappendiculatum; Helicosporium jiangkouense
+Diaporthe,3,Diaporthe kochmanii; Diaporthe sojae; Phomopsis euphorbiae
+Acrohelicosporium,3,Acrohelicosporium abundatum; Acrohelicosporium guizhouense; Acrohelicosporium viridisporum
+Paramyrothecium,3,Paramyrothecium roridum; Paramyrothecium vignicola; Xenomyrothecium tongaense
+Gymnopus,3,Gymnopus aquosus; Gymnopus dryophiloides; Gymnopus dryophilus
+Trichophyton,3,Trichophyton indotineae; Trichophyton interdigitale; Trichophyton mentagrophytes
+Cortinarius,3,Cortinarius distortus; Cortinarius laniger; Cortinarius maculatipes
+Aspergillus,3,Aspergillus chevalieri; Aspergillus cristatus; Aspergillus montevidensis
+Cantharellus,3,Cantharellus chrysanthus; Cantharellus cinnabarinus; Cantharellus phloginus
+Trametes,3,Phellinus igniarius; Trametes ochracea; Trametes versicolor
+Panaeolus,3,Panaeolus alcis; Panaeolus papilionaceus; Panaeolus sphinctrinus
+Debaryomyces,3,Debaryomyces fabryi; Debaryomyces hansenii; Debaryomyces subglobosus
+Trichoderma,3,Trichoderma aethiopicum; Trichoderma longibrachiatum; Trichoderma orientale
+Efibula,3,Efibula cremea; Efibula yaoshanensis; Efibula zhaotongensis
+Pestalotiopsis,3,Pestalotiopsis chamaeropis; Pestalotiopsis scoparia; Pestalotiopsis tumida
+Penicillium,3,Penicillium cosmopolitanum; Penicillium pancosmium; Penicillium ubiquetum
+Rhodotorula,3,Rhodotorula alborubescens; Rhodotorula dairenensis; Rhodotorula mucilaginosa
+Coprinellus,3,Coprinellus micaceus; Coprinellus saccharinus; Coprinellus truncorum
+Pyrenochaetopsis,3,Pyrenochaetopsis oryzicola; Pyrenochaetopsis paucisetosa; Pyrenochaetopsis tabarestanensis
+Akanthomyces,3,Akanthomyces muscarius; Akanthomyces uredinophilus; Lecanicillium pantatomidae
+Paecilomyces,3,Paecilomyces brunneolus; Paecilomyces dactylethromorphus; Paecilomyces variotii
+Lyomyces,3,Lyomyces erastii; Lyomyces orientalis; Xylodon sambuci
+Stachybotrys,3,Stachybotrys chartarum; Stachybotrys chlorohalonata; Stachybotrys chlorohalonatus
+Botryosphaeria,3,Botryosphaeria dolichospermatii; Botryosphaeria dothidea; Botryosphaeria kuwatsukai
+Pichia,3,Pichia kudriavzevii; Pichia manshurica; Suhomyces xylopsoci
+Skeletocutis,3,Skeletocutis chrysella; Skeletocutis diluta; Skeletocutis stellae
+Cantharellus,3,Cantharellus applanatus; Cantharellus longipes; Cantharellus natarajanii
+Nemania,3,Nemania diffusa; Nemania rubi; Xylaria grammica
+Gliomastix,3,Gliomastix fasciculata; Gliomastix murorum; Gliomastix roseogrisea
+Cladosporium,3,Cladosporium angulosum; Cladosporium eucommiae; Cladosporium perangustum
+Agaricus,3,Agaricus bellui; Agaricus cantonotraminus; Agaricus occidualis
+Simplicillium,3,Simplicillium lanosoniveum; Simplicillium neoaraneae; Simplicillium wudangense
+Neohelicosporium,3,Neohelicosporium fluviatile; Neohelicosporium jianfenglingense; Neohelicosporium submersum
+Lactarius,3,Lactarius akahatsu; Lactarius deterrimus; Lactarius fennoscandicus
+Alternaria,3,Alternaria botrytis; Alternaria chartarum; Alternaria indefessa
+Coprinellus,3,Coprinellus radians; Coprinellus xanthothrix; Psathyrella umbrosa
+Naganishia,3,Debaryomyces vietnamensis; Naganishia albida; Naganishia brisbanensis
+Penicillium,3,Penicillium aurantiocandidum; Penicillium cordubense; Penicillium polonicum
+Boeremia,3,Boeremia exigua; Boeremia lycopersici; Ectophoma multirostrata
+Corallomycetella,3,Corallomycetella repens; Lasionectria martinicensis; Sarocladium kiliense
+Gibellula,2,Gibellula pseudosolita; Gibellula solita
+Cortinarius,2,Cortinarius flabellus; Cortinarius flexipes
+Dothiorella,2,Dothiorella omnivora; Dothiorella vidmadera
+Phyllactinia,2,Phyllactinia actinidiae; Phyllactinia enkianthi
+Cercospora,2,Cercospora beticola; Cercospora capsici
+Verticillium,2,Verticillium albo-atrum; Verticillium nonalfalfae
+Amanita,2,Amanita augusta; Amanita flavipes
+Penicillium,2,Penicillium griseolum; Penicillium griseum
+Cercospora,2,Cercospora canescens; Cercospora kikuchii
+Trichoderma,2,Trichoderma bannaense; Trichoderma jaklitschii
+Cordyceps,2,Cordyceps militaris; Cordyceps shuifuensis
+Golovinomyces,2,Golovinomyces ambrosiae; Golovinomyces latisporus
+Septotinia,2,Septotinia podophyllina; Septotinia populiperda
+Puccinia,2,Puccinia bromina; Puccinia recondita
+Bettiolomyces,2,Bettiolomyces epiphytus; Paracorniculantispora psalliotae
+Rosellinia,2,Rosellinia herpotrichoides; Rosellinia mycophila
+Colletotrichum,2,Colletotrichum liriopes; Colletotrichum spaethianum
+Apiotrichum,2,Apiotrichum akiyoshidainum; Apiotrichum laibachii
+Penicillium,2,Penicillium citreonigrum; Penicillium janemahoniae
+Melampsora,2,Melampsora laricis-populina; Melampsora occidentalis
+Hypomontagnella,2,Hypomontagnella monticulosa; Hypomontagnella spongiphila
+Craterellus,2,Craterellus fulviceps; Craterellus sordidus
+Hebeloma,2,Hebeloma mesophaeum; Hebeloma naviculosporum
+Phaeosphaeria,2,Phaeosphaeria musae; Phaeosphaeriopsis musae
+Podosphaera,2,Podosphaera pannosa; Podosphaera pruinosa
+Thielaviopsis,2,Thielaviopsis ethacetica; Thielaviopsis paradoxa
+Corniculantispora,2,Corniculantispora aranearum; Corniculantispora dimorpha
+Naematelia,2,Naematelia aurantialba; Naematelia sinensis
+Mucidula,2,Mucidula mucida; Oudemansiella venosolamellata
+Dothiorella,2,Dothiorella hortiarborum; Dothiorella viticola
+Rhizoctonia,2,Rhizoctonia solani; Thanatephorus cucumeris
+Agrocybe,2,Agrocybe broadwayi; Agrocybe retigera
+Apiospora,2,Apiospora koreana; Apiospora qinlingensis
+Floccularia,2,Floccularia flava; Floccularia luteovirens
+Mycena,2,Mycena citrinomarginata; Mycena purpureofusca
+Aspergillus,2,Aspergillus sclerotiorum; Aspergillus subramanianii
+Coniella,2,Coniella castaneicola; Coniella quercicola
+Clitocybe,2,Clitocybe lamoureae; Collybia urbana
+Sebacina,2,Sebacina schweinitzii; Tremellodendron tenax
+Curvularia,2,Curvularia beasleyi; Curvularia hawaiiensis
+Pseudopithomyces,2,Pseudopithomyces atro-olivaceus; Pseudopithomyces cynodontis
+Phaeoacremonium,2,Phaeoacremonium africanum; Phaeoacremonium minimum
+Aspergillus,2,Aspergillus flocculosus; Aspergillus ochraceopetaliformis
+Tricholoma,2,Tricholoma albobrunneum; Tricholoma matsushimeji
+Coniochaeta,2,Coniochaeta prunicola; Coniochaeta velutina
+Epichloe,2,Epichloe uncinata; Subuliphorum camptosporum
+Chlorocillium,2,Chlorocillium griseum; Chlorocillium guizhouense
+Remototrachyna,2,Remototrachyna crenata; Remototrachyna rhabdiformis
+Scleroderma,2,Scleroderma sinnamariense; Scleroderma solare
+Gymnopilus,2,Gymnopilus oregonensis; Gymnopilus picreus
+Phellodon,2,Phellodon dititomentosus; Phellodon tomentosus
+Letendraea,2,Letendraea goniomae; Letendraea helminthicola
+Nigrospora,2,Nigrospora lacticolonia; Nigrospora osmanthi
+Inocybe,2,Inocybe cincinnata; Inocybe derbschii
+Cytospora,2,Cytospora eriobotryae; Cytospora leucosperma
+Pichia,2,Pichia californica; Pichia kurtzmaniana
+Russula,2,Russula brunneola; Russula vesca
+Camarosporidiella,2,Camarosporidiella cytisi; Camarosporidiella neospartii
+Phragmidium,2,Phragmidium andersonii; Phragmidium potentillae
+Erysiphe,2,Erysiphe nyctaginacearum; Erysiphe trifoliorum
+Exidia,2,Exidia glandulosa; Exidia nigricans
+Paracorniculantispora,2,Paracorniculantispora sinensis; Rubrumomyces sinensis
+Samsoniella,2,Samsoniella kaiyangensis; Samsoniella suiyangensis
+Gamszarella,2,Gamszarella araneicola; Gamszarella pupicola
+Samsoniella,2,Samsoniella guiyangensis; Samsoniella houerensis
+Samsoniella,2,Samsoniella simplicola; Samsoniella wudangensis
+Echinoporia,2,Echinoporia hydnophora; Xylodon nongravis
+Desarmillaria,2,Desarmillaria caespitosa; Desarmillaria tabescens
+Golovinomyces,2,Golovinomyces arabidis; Golovinomyces magnicellulatus
+Hebeloma,2,Hebeloma ischnostylum; Hebeloma nauseosum
+Pseudosolorina,2,Pseudosolorina parmigera; Pseudosolorina simensis
+Septoria,2,Septoria cerastii; Septoria convolvuli
+Cortinarius,2,Cortinarius imbutus; Cortinarius saturninus
+Colletotrichum,2,Colletotrichum americae-borealis; Colletotrichum destructivum
+Septoria,2,Septoria carvi; Septoria polygonorum
+Inosperma,2,Inosperma calamistratum; Inosperma mucidiolens
+Cortinarius,2,Cortinarius decipiens; Cortinarius dunensis
+Aspergillus,2,Aspergillus aureolus; Aspergillus udagawae
+Periconia,2,Periconia igniaria; Periconia macrospinosa
+Aspergillus,2,Aspergillus felis; Aspergillus pseudofelis
+Kalmusia,2,Kalmusia longispora; Kalmusia sarothamni
+Bullera,2,Bullera alba; Vishniacozyma victoriae
+Paracamarosporium,2,Paracamarosporium leucadendri; Pseudocamarosporium brabeji
+Inocybe,2,Inocybe grammopodia; Inocybe paleoveneta
+Candolleomyces,2,Candolleomyces candolleanus; Cercospora sophorae
+Hymenopellis,2,Hymenopellis furfuracea; Hymenopellis raphanipes
+Colletotrichum,2,Colletotrichum brevisporum; Colletotrichum lagenaria
+Helicoma,2,Helicoma acropleurogenum; Helicoma hydei
+Auricularia,2,Auricularia fuscosuccinea; Gymnopus spongiosus
+Lodderomyces,2,Lodderomyces elongisporus; Millerozyma farinosa
+Podosphaera,2,Podosphaera aphanis; Podosphaera fragariae
+Rhamphoria,2,Rhamphoria pyriformis; Rhamphoria separata
+Ceratocystis,2,Ceratocystis fimbriata; Ceratocystis manginecans
+Gnomoniopsis,2,Gnomoniopsis castaneae; Gnomoniopsis smithogilvyi
+Daldinia,2,Daldinia grandis; Daldinia loculata
+Boletus,2,Boletus variipes; Cerioporus leptocephalus
+Pseudohydnum,2,Pseudohydnum abietinum; Pseudohydnum sinogelatinosum
+Trichoderma,2,Trichoderma cerinum; Trichoderma tomentosum
+Simplicillium,2,Simplicillium bursae; Simplicillium subtropicum
+Distoseptispora,2,Distoseptispora aquatica; Distoseptispora nanchangensis
+Suillus,2,Suillus bovinus; Suillus pinetorum
+Neoascochyta,2,Neoascochyta cylindrispora; Neoascochyta desmazieri
+Xanthoparmelia,2,Xanthoparmelia subincerta; Xanthoparmelia subprolixa
+Hermatomyces,2,Hermatomyces sphaericus; Hermatomyces tectonae
+Quasipucciniastrum,2,Quasipucciniastrum ochraceum; Thekopsora potentillae
+Meripilus,2,Meripilus pouzarii; Physisporinus pouzarii
+Torula,2,Torula fici; Torula hydei
+Pleurodesmospora,2,Pleurodesmospora coccorum; Pleurodesmospora hemileiae
+Lachnellula,2,Lachnellula calyciformis; Lachnellula hyalina
+Diaporthe,2,Diaporthe columnaris; Phomopsis tuberivora
+Colletotrichum,2,Colletotrichum sojae; Colletotrichum vittalense
+Aspergillus,2,Aspergillus melleus; Aspergillus ostianus
+Cordyceps,2,Cordyceps chanhua; Cordyceps cicadae
+Linnemannia,2,Linnemannia elongata; Mortierella rishikesha
+Talaromyces,2,Talaromyces angelicae; Talaromyces flavus
+Entoloma,2,Entoloma quercetorum; Entoloma rhodopolium
+Cortinarius,2,Cortinarius psammocephalus; Cortinarius quercoconicus
+Cladosporium,2,Cladosporium domesticum; Cladosporium velox
+Coniochaeta,2,Coniochaeta lignicola; Coniochaeta luteoviridis
+Diaporthe,2,Diaporthe melonis; Diaporthe tectonendophytica
+Mucor,2,Mucor hiemalis; Mucor irregularis
+Aureobasidium,2,Aureobasidium melanogenum; Yarrowia lipolytica
+Hanseniaspora,2,Hanseniaspora lachancei; Hanseniaspora meyeri
+Clavispora,2,Clavispora paralusitaniae; Hanseniaspora guilliermondii
+Starmerella,2,Starmerella bacillaris; Starmerella stellata
+Bipolaris,2,Bipolaris oryzae; Bipolaris sivanesaniana
+Aspergillus,2,Aspergillus candidus; Aspergillus subalbidus
+Pseudocercospora,2,Pseudocercospora diplusodonis; Pseudocercospora lythracearum
+Allantophomopsis,2,Allantophomopsis lycopodina; Strasseria geniculata
+Cytospora,2,Cytospora elaeagni; Cytospora haidianensis
+Aspergillus,2,Aspergillus proliferans; Aspergillus pseudoglaucus
+Neoscytalidium,2,Neoscytalidium dimidiatum; Neoscytalidium hyalinum
+Westerdykella,2,Westerdykella aquatica; Westerdykella purpurea
+Splanchospora,2,Splanchospora ampullacea; Splanchospora oblongiconidia
+Diaporthe,2,Diaporthe passifloricola; Diaporthe ueckeri
+Biscogniauxia,2,Biscogniauxia mediterranea; Biscogniauxia rosacearum
+Leucodermia,2,Leucodermia boryi; Leucodermia fertilis
+Diaporthe,2,Diaporthe caryae; Diaporthe sackstonii
+Parachaetomium,2,Parachaetomium iranianum; Parachaetomium perlucidum
+Coniochaeta,2,Coniochaeta fibricola; Coniochaeta pulveracea
+Biscogniauxia,2,Biscogniauxia citriformis; Biscogniauxia dendrobii
+Paraphaeosphaeria,2,Paraphaeosphaeria hydei; Paraphaeosphaeria sporulosa
+Cladosporium,2,Cladosporium halotolerans; Cladosporium sphaerospermum
+Penicillium,2,Penicillium expansum; Penicillium italicum
+Phyllosticta,2,Phyllosticta capitalensis; Phyllosticta fallopiae
+Emericellopsis,2,Emericellopsis fuci; Emericellopsis minima
+Pestalotia,2,Pestalotia pitospora; Truncatella angustata
+Dactylonectria,2,Dactylonectria hordeicola; Dactylonectria macrodidyma
+Annulohypoxylon,2,Annulohypoxylon annulatum; Annulohypoxylon substygium
+Torula,2,Torula aquilariae; Torula mackenziei
+Pseudoneoconiothyrium,2,Pseudoneoconiothyrium chromolaenae; Pseudoneoconiothyrium thailandicum
+Hohenbuehelia,2,Hohenbuehelia mastrucata; Hohenbuehelia valesiaca
+Lentinula,2,Lentinula edodes; Schizophyllum commune
+Naganishia,2,Naganishia adeliensis; Naganishia diffluens
+Didymella,2,Didymella coffeae-arabicae; Neocucurbitaria unguis-hominis
+Ganoderma,2,Ganoderma sessile; Ganoderma sinense
+Daldinia,2,Daldinia eschscholtzii; Daldinia starbaeckii
+Cytospora,2,Cytospora sorbicola; [Leucostoma] persoonii
+Cadophora,2,Cadophora luteo-olivacea; Cadophora sabaouae
+Paecilomyces,2,Paecilomyces formosus; Sordaria fimicola
+Endophoma,2,Endophoma elongata; Juxtiphoma eupyrena
+Linnemannia,2,Linnemannia gamsii; Linnemannia hyalina
+Desmazierella,2,Desmazierella acicola; Trichoderma koningii
+Penicillium,2,Penicillium bialowiezense; Penicillium brevicompactum
+Aureobasidium,2,Aureobasidium proteae; Aureobasidium pullulans
+Pyrenochaeta,2,Pyrenochaeta pinicola; Steinbeckomyces carnegieae
+Samsoniella,2,Samsoniella fanjingensis; Samsoniella torquatistipitata
+Penicillium,2,Penicillium restrictum; Penicillium sankaranii
+Neohelicosporium,2,Neohelicosporium bambusicola; Neohelicosporium ellipsoideum
+Pyrenochaetopsis,2,Pyrenochaetopsis chromolaenae; Pyrenochaetopsis leptospora
+Cadophora,2,Cadophora africana; Cadophora prunicola
+Stagonosporopsis,2,Stagonosporopsis nemophilae; Stagonosporopsis pogostemonis
+Cadophora,2,Cadophora fascicularis; Leptodophora variabilis
+Colletotrichum,2,Colletotrichum kinghornii; Colletotrichum phormii
+Calonectria,2,Calonectria parva; Calonectria sulawesiensis
+Diplodia,2,Diplodia bulgarica; Diplodia malorum
+Diaporthe,2,Diaporthe cuppatea; Diaporthe stewartii
+Linnemannia,2,Linnemannia exigua; Linnemannia nimbosa
+Chlorocillium,2,Chlorocillium duiganiae; Pseudometarhizium lepidopterorum
+Podila,2,Podila horticola; Podila minutissima
+Cortinarius,2,Cortinarius infractiflavus; Cortinarius infractus
+Pholiota,2,Pholiota rufodisca; Pholiota verna
+Talaromyces,2,Talaromyces cecidicola; Talaromyces pseudostromaticus
+Exophiala,2,Exophiala tremulae; Penicillium salmoniflumine
+Nectria,2,Nectria dematiosa; Nectria nigrescens
+Neonectria,2,Neonectria lugdunensis; Neonectria shennongjiana
+Emericellopsis,2,Emericellopsis glabra; Emericellopsis microspora
+Trichoderma,2,Trichoderma amazonicum; Trichoderma pleuroti
+Fusarium,2,Fusarium armeniacum; Fusarium palustre
+Selinia,2,Selinia pulchra; Thyronectria austroamericana
+Penicillium,2,Penicillium maclennaniae; Penicillium namyslowskii
+Alternaria,2,Alternaria atra; Alternaria terricola
+Fusarium,2,Fusarium lichenicola; Fusarium ramosum
+Humicola,2,Humicola fuscoatra; Humicola variabilis
+Tilletia,2,Tilletia brevifaciens; Tilletia puccinelliae
+Pseudocercospora,2,Pseudocercospora indonesiana; Pseudocercospora tinea
+Leptosphaerulina,2,Leptosphaerulina australis; Leptosphaerulina trifolii
+Podospora,2,Podospora brasiliensis; Podospora nannopodalis
+Coniella,2,Coniella diplodiella; Coniella diplodiopsis
+Septoria,2,Septoria argyraea; Septoria protearum
+Ganoderma,2,Ganoderma curtisii; Ganoderma meredithae
+Sporothrix,2,Sporothrix lunata; Sporothrix prolifera
+Alternaria,2,Alternaria ethzedia; Alternaria poaceicola
+Ovatospora,2,Ovatospora brasiliensis; Ovatospora mollicella
+Achaetomium,2,Achaetomium aegilopis; Achaetomium cristalliferum
+Penicillium,2,Penicillium momoi; Penicillium rubefaciens
+Buchwaldoboletus,2,Buchwaldoboletus hemichrysus; Chalciporus sphaerocephalus
+Coniothyrium,2,Coniothyrium conorum; Neomicrosphaeropsis italica
+Penicillium,2,Penicillium chalabudae; Penicillium philippinense
+Gelasinospora,2,Gelasinospora goundaensis; Neurospora kobi
+Cortinarius,2,Cortinarius pseudocyanites; Phlegmacium boreicyanites
+Vermiconidia,2,Vermiconidia lapidea; Vermiconidia mendeliana
+Pseudopestalotiopsis,2,Pseudopestalotiopsis camelliae-sinensis; Pseudopestalotiopsis chinensis
+Pholiota,2,Pholiota brunnescens; Pholiota chocenensis
+Colletotrichum,2,Colletotrichum citricola; Colletotrichum cliviigenum
+Macrophomina,2,Macrophomina euphorbiicola; Macrophomina phaseolina
+Bipolaris,2,Bipolaris mediocris; Bipolaris zeae
+Penicillium,2,Penicillium heislerae; Penicillium higginsiae
+Phaeosphaeria,2,Phaeosphaeria phormii; Phaeosphaeria podocarpi
+Diaporthe,2,Diaporthe erythrinae; Diaporthe foliicola
+Sporothrix,2,Sporothrix globosa; Sporothrix schenckii
+Cortinarius,2,Cortinarius clarobrunneus; Thaxterogaster comarostaphylidis
+Cortinarius,2,Cortinarius circinans; Cortinarius millaresensis
+Cortinarius,2,Cortinarius bataillei; Cortinarius malachius
+Cortinarius,2,Cortinarius anomalellus; Cortinarius caninus
+Cortinarius,2,Cortinarius venustus; Suillus grevillei
+Cortinarius,2,Cortinarius pseudobiformis; Cortinarius substriatus
+Cortinarius,2,Cortinarius hemitrichus; Cortinarius subpaleaceus
+Cortinarius,2,Cortinarius aptecohaerens; Cortinarius athabascus
+Paraconiothyrium,2,Paraconiothyrium cyclothyrioides; Paraconiothyrium estuarinum
+Mycoacia,2,Mycoacia livida; Phlebia radiata
+Daedalea,2,Daedalea confragosa; Daedaleopsis tricolor
+Mucor,2,Mucor circinelloides; Mucor plumbeus
+Aspergillus,2,Aspergillus ochraceus; Aspergillus pallidofulvus
+Xylaria,2,Xylaria ophiopoda; Xylaria schweinitzii
+Pestalotiopsis,2,Pestalotiopsis pini; Pestalotiopsis rhododendri
+Pestalotiopsis,2,Pestalotiopsis lushanensis; Pestalotiopsis neglecta
+Ilyonectria,2,Ilyonectria ilicicola; Ilyonectria leucospermi
+Geastrum,2,Geastrum octopiforme; Geastrum saccatum
+Cytospora,2,Cytospora rhizophorae; Cytospora xylocarpi
+Trichophyton,2,Trichophyton equinum; Trichophyton tonsurans
+Sarocladium,2,Sarocladium formosanum; Sarocladium strictum
+Helicoma,2,Helicoma brunneum; Helicoma dennisii
+Penicillium,2,Penicillium johnkrugii; Penicillium mallochii
