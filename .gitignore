@@ -1,54 +1,32 @@
-cat > .gitignore <<'EOF'
-# ==========================
 # Python
-# ==========================
-
 __pycache__/
 *.py[cod]
-*.so
 *.egg-info/
 .pytest_cache/
 .mypy_cache/
-.ipynb_checkpoints/
 
-# ==========================
-# Environments
-# ==========================
-
+# Environments and local configuration
 .venv/
 venv/
-env/
-conda-meta/
-
 .env
 .env.*
 !.env.example
-
-# ==========================
-# IDE
-# ==========================
-
+.DS_Store
 .vscode/
 .idea/
 
-# ==========================
-# macOS
-# ==========================
+# Temporary archives
+*.zip
+*.tmp
+*.temp
+*.bak
 
-.DS_Store
-
-# ==========================
 # Logs
-# ==========================
-
 *.log
 failed_markers.txt
 completed_markers.txt
 
-# ==========================
-# BLAST / DNABarcoder temporary files
-# ==========================
-
+# BLAST intermediate files
 *.nhr
 *.nin
 *.nsq
@@ -57,74 +35,37 @@ completed_markers.txt
 *.not
 *.ntf
 *.nto
-
 *.phr
 *.pin
-*.pog
-*.pot
 *.psq
-*.ptf
-*.pto
 *.pdb
 
 # Large similarity matrices
 *.sim
 
-# ==========================
-# Raw / generated input datasets
-# ==========================
-
-input/
-
-# Accidental nested DNABarcoder output directory
+# Generated input and prediction datasets
+/input/
 /dnabarcoder/
+/output/*
+!/output/.gitkeep
 
-# ==========================
-# DNABarcoder generated prediction output
-# ==========================
+# Intermediate analysis results
+/results/*
+!/results/.gitkeep
 
-output/*
-!output/.gitkeep
+# Keep selected scientific summaries
+!/results/final_summary/
+!/results/final_summary/**
 
-# ==========================
-# Results
-#
-# Ignore generated results by default,
-# but retain publication-ready summaries,
-# figures, and lightweight marker summaries.
-# ==========================
+# Keep publication figures and CSV files
+!/results/figures/
+!/results/figures/**
 
-results/*
-
-# Keep folder marker
-!results/.gitkeep
-
-# Final cross-marker summaries
-!results/final_summary/
-!results/final_summary/**
-
-# Publication figures + their source CSVs
-!results/figures/
-!results/figures/**
-
-# Keep individual marker result directories
-!results/*_focus/
-
-# Ignore everything inside them by default
-results/*_focus/*
-
-# Keep lightweight characterization outputs
-!results/*_focus/*_sequence_length_summary.csv
-!results/*_focus/*_sequence_length_distribution.png
-!results/*_focus/*_indistinguishable_summary.csv
-!results/*_focus/*_indistinguishable_species_groups.csv
-!results/*_focus/*_indistinguishable_groups_by_genus.csv
-
-# ==========================
-# Temporary files
-# ==========================
-
-*.tmp
-*.temp
-*.bak
-EOF
+# Keep lightweight marker summaries
+!/results/*_focus/
+/results/*_focus/*
+!/results/*_focus/*_sequence_length_summary.csv
+!/results/*_focus/*_sequence_length_distribution.png
+!/results/*_focus/*_indistinguishable_summary.csv
+!/results/*_focus/*_indistinguishable_species_groups.csv
+!/results/*_focus/*_indistinguishable_groups_by_genus.csv
